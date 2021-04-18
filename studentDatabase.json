@@ -1,0 +1,382 @@
+[
+    {
+      "name": "Vimal Sethi KODE",
+      "class": "12",
+      "section": "A",
+      "Favourite_Subject": "Coding",
+      "Skills": ["Java script", "React", "JSON reading"],
+      "Favourite Teacher": "Mr. Badal Baada",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    },
+    {
+      "name": "Jai Cohli Bunak",
+      "class": "12",
+      "section": "A",
+      "Favourite_Subject": "Mining",
+      "Skills": ["Digging", "Traveling over rough terrain", "Yellow"],
+      "Favourite Teacher": "Mr. Jai Camal Bale",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    },
+    {
+      "name": "Mukesh",
+      "class": "12",
+      "section": "B",
+      "Favourite_Subject": "Environment Technology",
+      "Skills": ["Sensor technology", "Polution strtedgy"],
+      "Favourite Teacher": "Mr. Jai Camal Bale",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    },
+    {
+      "name": "Ajab Premuna",
+      "class": "12",
+      "section": "A",
+      "Favourite_Subject": "English",
+      "Skills": ["Peaking", "Writing", "Communication"],
+      "Favourite Teacher": "Mr. Bolte Bahut Acche",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    },
+    {
+      "name": "Jai Shikwa",
+      "class": "12",
+      "section": "B",
+      "Favourite_Subject": "Mathematics",
+      "Skills": ["calculation","statistical thinking"],
+      "Favourite Teacher": "Mr. Srinivas Ramanujan",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    },
+    {
+      "name": "Dil bhare",
+      "class": "12",
+      "section": "C",
+      "Favourite_Subject": "Mathematics",
+      "Skills": ["Creative Mathematics", "Applied Mathermatics"],
+      "Favourite Teacher": "Mr. Srinivas Ramanujan",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    },
+    {
+      "name": "Asmaan saif",
+      "class": "12",
+      "section": "A",
+      "Favourite_Subject": "Environmental Technology",
+      "Skills": ["Analytics", "Speaking"],
+      "Favourite Teacher": "Mr. Badal Baada",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    },
+    {
+      "name": "Khula Pawan",
+      "class": "12",
+      "section": "A",
+      "Favourite_Subject": "Environmental Technology",
+      "Skills": ["Writing", "Manageing", "Technical Mind"],
+      "Favourite Teacher": "Mr. Badal Baada",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    },
+    {
+      "name": "Vimal Sethi KODE",
+      "class": "12",
+      "section": "C",
+      "Favourite_Subject": "Mining",
+      "Skills": ["Sound knowledge of stones", "Hill Topography", "Explosive Technology"],
+      "Favourite Teacher": "Mr. Badal Baada",
+      "Fee_history": {
+        "December": {
+          "Amount": 5000,
+          "Status": false
+        },
+        "January": {
+          "Amount": 5000,
+          "Status": true
+        },
+        "Feburary": {
+          "Amount": 5000,
+          "Status": true
+        },
+        "March": {
+          "Amount": 5000,
+          "Status": true
+        },
+        "April": {
+          "Amount": 5000,
+          "Status": false
+        }
+      }
+    },
+    {
+      "name": "Natkiya Rup Antaar",
+      "class": "12",
+      "section": "B",
+      "Favourite_Subject": "Arts",
+      "Skills": ["Dancing", "History", "Acting"],
+      "Favourite Teacher": "Mr. Nawab Special Decor NSD",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    },
+    {
+      "name": "Thode Kambolte",
+      "class": "12",
+      "section": "A",
+      "Favourite_Subject": "Communicative arts",
+      "Skills": ["Creative Writing", "Script direction", "Speaking"],
+      "Favourite Teacher": "Mr. Bolte Bahut Acche",
+      "Fee_history": [
+        {
+          "month":"december",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"january",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"feburary",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"march",
+          "Amount": 5000,
+          "Status": false
+        },
+        {
+          "month":"april",
+          "Amount": 5000,
+          "Status": false
+        }
+        ]
+    }
+  ]

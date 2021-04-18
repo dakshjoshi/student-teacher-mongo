@@ -1,0 +1,159 @@
+[
+  {
+    "Name": "Mr. Badal Baada",
+    "Subjects": ["Coding", "Environment Technology"],
+    "favouriteSubjects": ["Vimal Sethi KODE", "Mukesh"],
+    "classTeacherOf": {
+      "Class": 11,
+      "Section": "A"
+    },
+    "Attendance_data": [
+      {
+        "date": "21-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "22-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "23-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "24-03-2021",
+        "isPresent": true
+      },
+      { "date": "25-03-2021", "isPresent": true },
+      {
+        "date": "26-03-2021",
+        "isPresent": true
+      }
+    ]
+  },
+  {
+    "Name": "Mr. Jai Camal Bale",
+    "Subjects": ["Mining", "English"],
+    "favouriteSubjects": ["Vimal Sethi KODE", "Mukesh"],
+    "classTeacherOf": {
+      "Class": 11,
+      "Section": "B"
+    },"Attendance_data": [
+      {
+        "date": "21-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "22-03-2021",
+        "isPresent": false
+      },
+      {
+        "date": "23-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "24-03-2021",
+        "isPresent": true
+      },
+      { "date": "25-03-2021", "isPresent": true },
+      {
+        "date": "26-03-2021",
+        "isPresent": true
+      }
+    ]
+  },
+  {
+    "Name": "Mr. Nawab Special Decor NSD",
+    "Subjects": ["Theatre", "Arts"],
+    "favouriteSubjects": ["Namuna Lal"],
+    "classTeacherOf": {
+      "Class": 12,
+      "Section": "B"
+    },
+    "Attendance_data": [
+      {
+        "date": "21-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "22-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "23-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "24-03-2021",
+        "isPresent": true
+      },
+      { "date": "25-03-2021", "isPresent": true },
+      {
+        "date": "26-03-2021",
+        "isPresent": true
+      }
+    ]
+  },
+  {
+    "Name": "Mr. Bolte Bahut Acche",
+    "Subjects": ["English", "Communicative arts"],
+    "favouriteSubjects": ["Ajab Premuna", "Mukesh"],
+    "classTeacherOf": {
+      "Class": 12,
+      "Section": "A"
+    },"Attendance_data": [
+      {
+        "date": "21-03-2021",
+        "isPresent": false
+      },
+      {
+        "date": "22-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "23-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "24-03-2021",
+        "isPresent": false
+      },
+      { "date": "25-03-2021", "isPresent": true },
+      {
+        "date": "26-03-2021",
+        "isPresent": true
+      }
+    ]
+  },
+  {
+    "Name": "Mr. Srinivas Ramanujan",
+    "Subjects": ["Mathematics"],
+    "favouriteSubjects": ["Jai Shikwa", "Dil bhare"],
+    "classTeacherOf": {
+      "Class": 12,
+      "Section": "C"
+    },"Attendance_data": [
+      {
+        "date": "21-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "22-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "23-03-2021",
+        "isPresent": true
+      },
+      {
+        "date": "24-03-2021",
+        "isPresent": false
+      },
+      { "date": "25-03-2021", "isPresent": true },
+      {
+        "date": "26-03-2021",
+        "isPresent": true
+      }
+    ]
+  }
+]
